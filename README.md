@@ -1,6 +1,7 @@
 ### Hi!👋 Here is what I'm Working On
 
-![image](https://user-images.githubusercontent.com/107203025/175310676-9bd54393-f0ca-41fe-ae9a-7d4553160c08.png)
+![logob2 - Copy](https://user-images.githubusercontent.com/107203025/175312222-a90fe7e3-c84c-4f58-9ba1-93091f9a432f.png)
+
 
 
 Here are some ideas to get you started:
