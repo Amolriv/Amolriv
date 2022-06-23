@@ -1,6 +1,8 @@
 ### Hi!👋 Here is what I'm Working On
 
-![intro](https://user-images.githubusercontent.com/107203025/175323771-ad6a2ed0-99b2-456e-9b73-21be0ce6a1cf.jpg)
+
+![IntroReadMe](https://user-images.githubusercontent.com/107203025/175327446-dde44e8e-dc54-4fc7-a007-0c976489b0c4.jpg)
+
 
 
 Recently, I was the introduced to this whole journey an all began with a SSG I created called TEST101. Before that, I was the another . around.
