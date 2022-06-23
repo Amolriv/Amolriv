@@ -1,10 +1,6 @@
 ### Hi!👋 Here is what I'm Working On
 
-
-https://www.canva.com/design/DAFEbhVFD6Y/DKc5uHbu5p2r-nJRYy8jsw/view?utm_content=DAFEbhVFD6Y&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
-
-
-
+![testingreadme](https://user-images.githubusercontent.com/107203025/175376645-8e87f361-eaa0-489f-8914-7ccd4095302d.jpg)
 
 
 Recently, I was the introduced to this whole journey an all began with a SSG I created called TEST101. Before that, I was the another . around.
